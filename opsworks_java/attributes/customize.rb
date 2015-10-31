@@ -9,3 +9,4 @@
 # The following shows how to override the Tomcat threadpool max size:
 #
 #normal['opsworks_java']['tomcat']['threadpool_max_threads'] = 150
+default['opsworks_java']['java_app_server_version'] = '8.0'
